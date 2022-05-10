@@ -1,6 +1,10 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyseul513&show_icons=true&theme=vue)
 
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyseul513&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyseul513&layout=Demo&theme=vue)
+ 
+ </div>
 
 
 
