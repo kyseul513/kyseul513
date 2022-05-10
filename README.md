@@ -6,8 +6,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyseul513&show_icons=true&theme=vue)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyseul513&layout=Demo&theme=vue)
 
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=2E8B57&height=100&section=header)
+<br>
+<br>
+![header](https://capsule-render.vercel.app/api?type=soft&color=79b594&height=100&section=header)
 
 <!--
 **kyseul513/kyseul513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
